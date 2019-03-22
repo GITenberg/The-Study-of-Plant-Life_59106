@@ -1,11 +1,16 @@
 _repo: The-Study-of-Plant-Life_59106
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59106-h/images/cover.jpg
 creator:
   author:
     agent_name: Stopes, M. C.
     gutenberg_agent_id: '50305'
     url: http://www.gutenberg.org/2009/agents/50305
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59106#The-Study-of-Plant-Life
 gutenberg_issued: '2019-03-21'
 gutenberg_type: Text
 identifiers:
